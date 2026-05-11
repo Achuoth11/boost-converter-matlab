@@ -36,7 +36,7 @@ Simulates the full boost converter circuit:
 - Source current waveform
 - PWM switching control (Discrete Pulse Generator)
 
-To open: Launch MATLAB → Open `matlab/labdc3b.slx`
+To open: Launch MATLAB → Open `matlab/boost_converter.slx`
 
 ---
 
@@ -57,7 +57,7 @@ To open: Launch MATLAB → Open `matlab/labdc3b.slx`
 ```
 boost-converter-matlab/
 ├── matlab/
-│   └── labdc3b.slx               # MATLAB Simulink boost converter model
+│   └── boost_converter.slx               # MATLAB Simulink boost converter model
 └── docs/
     ├── graph.jpeg                 # Simulink simulation waveforms
     ├── boost_convert.jpeg         # Hardware circuit photo
