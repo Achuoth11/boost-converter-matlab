@@ -71,7 +71,7 @@ boost-converter-matlab/
 
 ```
 1. Open MATLAB
-2. Open matlab/labdc3b.slx
+2. Open matlab/boost_converter.slx
 3. Run simulation
 4. View scope outputs:
    - Input Voltage (10–15V DC source)
